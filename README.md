@@ -1,5 +1,5 @@
 👋 Hi, I’m @CM3-SujalBasa  
-👀 I’m interested in web development and open-source contributions  
+👀 I’m interested in web development and open-source contributions 
 🌱 I’m currently learning JavaScript and React  
 💞️ I’m looking to collaborate on exciting web projects and open-source initiatives  
 📫 How to reach me: sujalbasa2005@gmail.com  
